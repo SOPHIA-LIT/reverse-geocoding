@@ -1,0 +1,365 @@
+id,firm,year_est,plant id,place,district,state,lat,long
+1,ANDREW YULE & CO.LTD.,1875,1,Sukhiapokhri,Darjiling,West Bengal,26.98551,88.14711
+1,ANDREW YULE & CO.LTD.,1875,2,Kalyani,Nadia,West Bengal ,22.96473,88.44538
+1,ANDREW YULE & CO.LTD.,1875,3,Banarhat, Jalpaiguri ,West Bengal ,26.77564,88.96003
+1,ANDREW YULE & CO.LTD.,1875,4,bidhannagar,north twenty four parganas,West Bengal ,22.52938,88.32244
+1,ANDREW YULE & CO.LTD.,1875,5,Bukahula,Dibrugarh,assam,27.47807,94.90115
+1,ANDREW YULE & CO.LTD.,1875,6,Lahoal T.E. 27/148 Orr,Dibrugarh,assam,27.46021,94.99247
+1,ANDREW YULE & CO.LTD.,1875,7,Alipore,south twenty four parganas,West Bengal ,22.52014,88.31144
+1,ANDREW YULE & CO.LTD.,1875,8,"
+Perungudi",kancheepuram,T.N,12.6148,80.16973
+1,ANDREW YULE & CO.LTD.,1875,9,Rajgarh T.E. 275/299 Nlr,Dibrugarh,assam,27.11422,95.13479
+1,ANDREW YULE & CO.LTD.,1875,10,Mariani,jorhat,assam,26.6539,94.3105
+2,BALMER LAWRIE & CO.LTD.,1867,11,Piala,faridabad,Haryana,28.35909,77.3305
+2,BALMER LAWRIE & CO.LTD.,1867,12,Manali,thiruvallur,T.N,13.17535,80.29284
+2,BALMER LAWRIE & CO.LTD.,1867,13,Patnam,chittoor,andhra pradesh,13.2626,79.05937
+2,BALMER LAWRIE & CO.LTD.,1867,14,Alipore,south twenty four parganas,West Bengal ,22.59156,88.37495
+2,BALMER LAWRIE & CO.LTD.,1867,15,greater mumbai part,mumbai suburban,maharashtra,18.93517,72.84071
+2,BALMER LAWRIE & CO.LTD.,1867,16,navi mumbai panvel raigarh,raigarh,maharashtra,19.05276,73.11998
+2,BALMER LAWRIE & CO.LTD.,1867,17,sohna,gurgaon,haryana,28.41991,77.03728
+2,BALMER LAWRIE & CO.LTD.,1867,18,Silvassa,dadra nagar haveli,dadra nagar haveli,20.24585,73.00683
+3,BEML LTD.,1964,19,bruhat bengaluru mahanagara palike part,bangalore,karnataka,12.9665,77.59265
+3,BEML LTD.,1964,20,bruhat bengaluru mahanagara palike part,bangalore,karnataka,12.98264,77.5349
+3,BEML LTD.,1964,21,kolar rural,kolar,karnataka,15.141394,76.927281
+3,BEML LTD.,1964,22,Belavadi,mysore,karnataka,12.34276,76.579
+3,BEML LTD.,1964,23,pudussery central,palakkad,kerala,10.77165,76.78785
+4,BHARAT DYNAMICS LTD.,1970,24,greater hyderabad municipal corporation part,rangareddy,andhra pradesh,17.3137,78.51075
+4,BHARAT DYNAMICS LTD.,1970,25,greater hyderabad municipal corporation part,rangareddy,andhra pradesh,17.48521,78.18578
+4,BHARAT DYNAMICS LTD.,1970,26,vadlapudi u,visakhapatnam,andhra pradesh,17.68213,83.24887
+5,BHARAT ELECTRONICS LTD.,1954,27,bruhat bengaluru mahanagara palike part,bangalore,karnataka,13.05371,77.5433
+5,BHARAT ELECTRONICS LTD.,1954,28,sahibabad,ghaziabad,uttar pradesh,28.67726,77.35807
+5,BHARAT ELECTRONICS LTD.,1954,29,"Nandambakkam
+",kancheepuram,T.N,12.97552,80.05623
+5,BHARAT ELECTRONICS LTD.,1954,30,Pune,Pune,maharashtra,18.53638,73.80323
+5,BHARAT ELECTRONICS LTD.,1954,31,Machilipatnam,krishna,andhra pradesh,16.1786,81.13249
+5,BHARAT ELECTRONICS LTD.,1954,32,Panchkula ,panchkula, Haryana,30.67314,76.84427
+5,BHARAT ELECTRONICS LTD.,1954,33,Bhel Sarda,garhwal,uttarakhand,29.831204,78.777555
+5,BHARAT ELECTRONICS LTD.,1954,34,navi mumbai,thane,maharashtra,19.1662,72.99656
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,35,Bhopal,Bhopal,Madhya Pradedh,23.24912,77.47647
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,36,bruhat bengaluru mahanagara palike part,bangalore,karnataka,13.0105,77.56891
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,37,Goindwal ,tarn taran,{Punjab),31.35909,75.13947
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,38,Ranipur,hardwar,uttarakhand,30.06041,78.28949
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,39,ramachandrapuram,east godavari,andhra pradesh,16.8323,82.0347
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,40,jhansi,jhansi,uttar pradesh,25.44873,78.57013
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,41,Amethi,sultanpur,uttar pradesh,26.45781,81.62543
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,42,Nagpur,Nagpur,maharashtra,21.15262,79.0882
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,43,greater mumbai part,mumbai suburban,maharashtra,19.12732,72.86205
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,44,greater noida,gautam buddha nagar,uttar pradesh,28.55702,77.32624
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,45,ranipettai,vellore,T.N,12.92844,79.32889
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,46,Dogori Range,udham singh nagar,uttarakhand,28.9778,79.4017
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,47,tiruchirappalli,tiruchirappalli,T.N,10.81613,78.65876
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,48,Shivpur,varanasi,uttar pradesh,25.34791,82.96447
+6,BHARAT HEAVY ELECTRICALS LTD.,1964,49,mindi u,visakhapatnam,andhra pradesh,17.68213,83.24887
+7,BHARAT PETROLEUM CORP.LTD.,1976,,thrippunithura,ernakulam,kerala,9.94612,76.34181
+7,BHARAT PETROLEUM CORP.LTD.,1976,,numaligarh refinery township,golaghat,assam,26.6325,93.715
+7,BHARAT PETROLEUM CORP.LTD.,1976,,greater mumbai part,mumbai suburban,maharashtra,19.04546,72.8787
+8,BONGAIGAON REFINERY & PETROCHEMICALS LTD. [MERGED],1974,,Dholagaon,bongaigaon,assam,26.51201,90.58607
+9,CHENNAI PETROLEUM CORP.LTD.,1965,,Pannangudy,nagapattinam,T.N,10.77318,79.84145
+9,CHENNAI PETROLEUM CORP.LTD.,1965,,Manali,thiruvallur,T.N,13.16341,80.26356
+10,COAL INDIA LTD.,1975,,dhanbad,dhanbad,jharkhand,23.729,86.46563
+10,COAL INDIA LTD.,1975,,Kadma,ranchi,jharkhand,23.3699,85.32528
+10,COAL INDIA LTD.,1975,,sudi,barddhaman,west bengal,23.2502,87.86938
+10,COAL INDIA LTD.,1975,,sambalpur,sambalpur,odisha,21.45942,83.97433
+10,COAL INDIA LTD.,1975,,singrauli,singrauli,Madhya Pradedh,23.758608,81.72673
+10,COAL INDIA LTD.,1975,,deori,bilaspur,chhattisgarh,22.05728,82.17095
+10,COAL INDIA LTD.,1975,,nagpur,nagpur,maharashtra,21.15262,79.0882
+10,COAL INDIA LTD.,1975,,makum pathar,tinsukia,assam,27.487,95.4393
+11,COCHIN SHIPYARD LTD.,1972,,kochi part,ernakulam,kerala,10.04219,76.21732
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Ahmadgarh,bulandshahr,uttar pradesh,28.64146,77.45497
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Balli,south goa,goa,15.18289,74.01401
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Amingaon,baksa,assam,26.18343,91.66321
+12,CONTAINER CORP.OF INDIA LTD.,1988,,mulavukad,ernakulam,kerala,9.99004,76.25128
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Pathareddipalem,guntur,andhra pradesh,16.306652,80.436539
+12,CONTAINER CORP.OF INDIA LTD.,1988,,anklesvar,bharuch,gujarat,21.62485,73.00302
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Agra,Agra,uttar pradesh,27.16772,78.03589
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Babarpur (34),panipat,haryana,29.46378,77.07072
+12,CONTAINER CORP.OF INDIA LTD.,1988,,baddi,solan,himachal pradesh,30.928,76.796
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Sarurpur(27),faridabad,haryana,28.31758,77.35852
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Jodhpur,Jodhpur,rajasthan,26.238947,73.024307
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Jamalpur Leli (84),ludhiana,punjab,30.86582,75.92294
+12,CONTAINER CORP.OF INDIA LTD.,1988,,daper,sahibzada ajit singh nagar,punjab,30.53232,76.81953
+12,CONTAINER CORP.OF INDIA LTD.,1988,,kanakpura,jaipur,rajasthan,26.92611,75.74634
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Kathuwas,alwar,rajasthan,28.15763,76.31459
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Khemli,udaipur,rajasthan,24.57611,73.7005
+12,CONTAINER CORP.OF INDIA LTD.,1988,,moradabad,moradabad,uttar pradesh,28.833139,78.765282
+12,CONTAINER CORP.OF INDIA LTD.,1988,,delhi municipal corporation part,nct of delhi,New Delhi,28.538849,77.275375
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Phillaur,jalandhar,punjab,31.06762,75.82145
+12,CONTAINER CORP.OF INDIA LTD.,1988,,rewari rural ct,rewari,haryana,28.20168,76.61155
+12,CONTAINER CORP.OF INDIA LTD.,1988,,jalgaon,jalgaon,maharashtra,21.0469,75.78207
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Chinchwad,pune,maharashtra,18.63316,73.799591
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Daulatabad,aurangabad,maharashtra,19.879934,75.332474
+12,CONTAINER CORP.OF INDIA LTD.,1988,,navi mumbai panvel raigarh,raigarh,maharashtra,19.05931,73.00151
+12,CONTAINER CORP.OF INDIA LTD.,1988,,uran,raigarh,maharashtra,19.05742,73.00962
+12,CONTAINER CORP.OF INDIA LTD.,1988,,greater mumbai part,mumbai suburban,maharashtra,19.14463,72.948792
+12,CONTAINER CORP.OF INDIA LTD.,1988,,pithampur,dhar,madhya pradesh,22.63669,75.8028
+12,CONTAINER CORP.OF INDIA LTD.,1988,,ratlam,ratlam,madhya pradesh,23.37549,75.06251
+12,CONTAINER CORP.OF INDIA LTD.,1988,,nagpur,nagpur,maharashtra,21.08559,79.07857
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Khapri,nagpur,maharashtra,20.8061,78.92774
+12,CONTAINER CORP.OF INDIA LTD.,1988,,kendujhar,kendujhar,odisha,21.49489,86.91333
+12,CONTAINER CORP.OF INDIA LTD.,1988,,durgapur,barddhaman,west bengal,23.55575,87.27427
+12,CONTAINER CORP.OF INDIA LTD.,1988,,fatwah,patna,bihar,25.507,85.310997
+12,CONTAINER CORP.OF INDIA LTD.,1988,,haldia,purba medinipur,west bengal,22.07272,88.1569
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Majerhat,south twenty four parganas,west bengal,22.51618,88.32338
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Jharsuguda,jharsuguda,odisha,21.8615,84.0176
+12,CONTAINER CORP.OF INDIA LTD.,1988,,raurkela,sundargarh,odisha,22.23213,84.80313
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Sibpur,haora,west bengal,22.56079,88.31358
+12,CONTAINER CORP.OF INDIA LTD.,1988,,jamshedpur,purbi singhbhum,jharkhand,22.77111,86.2008
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Thoothukudi,Thoothukudi,T.N,8.81606,78.10046
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Salem,,tamil nadu,,
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Tiruvottiyur,thiruvallur,tamil nadu,13.125289,80.289345
+12,CONTAINER CORP.OF INDIA LTD.,1988,,bruhat bengaluru mahanagara palike part,bangalore,karnataka,12.96565,77.74891
+12,CONTAINER CORP.OF INDIA LTD.,1988,,irugur,coimbatore,tamil nadu,11.0038,77.06473
+12,CONTAINER CORP.OF INDIA LTD.,1988,,veerapandi,tiruppur,T.N,11.01352,77.55102
+12,CONTAINER CORP.OF INDIA LTD.,1988,,ullal,dakshina kannada,karnataka,12.8224,74.8577
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Chennai,,tamil nadu,,
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Desur,belgaum,karnataka,15.7425,74.5053
+12,CONTAINER CORP.OF INDIA LTD.,1988,,greater hyderabad municipal corporation part,rangareddy,andhra pradesh,17.4417,78.4978
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Krishnapatnam,sri potti sriramulu nellore,andhra pradesh,14.442599,79.986458
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Raipur,Raipur,chhattisgarh,21.164993,81.775307
+12,CONTAINER CORP.OF INDIA LTD.,1988,,greater visakhapatnam municipal corporation part,visakhapatnam,andhra pradesh,17.686815,83.218483
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Gandhidham,gujarat,gujarat,23.0791,70.140152
+12,CONTAINER CORP.OF INDIA LTD.,1988,,bajwa,vadodara,gujarat,22.343,73.1627
+12,CONTAINER CORP.OF INDIA LTD.,1988,,gandhinagar,gandhinagar,gujarat,23.08202,72.57336
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Varnama,vadodara,gujarat,22.3112,73.18198
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Tilpata Karanwas,gautam buddha nagar,uttar pradesh,28.52933,77.52869
+12,CONTAINER CORP.OF INDIA LTD.,1988,,kanpur,kanpur nagar,uttar pradesh,26.449923,80.331871
+12,CONTAINER CORP.OF INDIA LTD.,1988,,sant ravidas nagar bhadohi,sant ravidas nagar bhadohi,uttar pradesh,25.27194,82.527611
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Malnpur,gwalior,madhya pradesh,24.82164,85.03539
+12,CONTAINER CORP.OF INDIA LTD.,1988,,Rampura,kota,rajasthan,25.162998,75.84532
+13,DREDGING CORP.OF INDIA LTD.,1976,,greater visakhapatnam municipal corporation part,visakhapatnam,andhra pradesh,17.7027,83.2905
+13,DREDGING CORP.OF INDIA LTD.,1976,,Haldia,purba medinipur,west bengal,22.06746,88.13718
+13,DREDGING CORP.OF INDIA LTD.,1976,,kandla,kachchh,gujarat,23.01411,70.20716
+13,DREDGING CORP.OF INDIA LTD.,1976,,kochi part,ernakulam,kerala,9.93843,76.271294
+13,DREDGING CORP.OF INDIA LTD.,1976,,ennore,thiruvallur,tamil nadu,13.23213,80.31776
+14,ENGINEERS INDIA LTD.,1964,,Siruseri,kancheepuram,tamil nadu,12.7082,79.60544
+14,ENGINEERS INDIA LTD.,1964,,Vadodara,Vadodara,gujarat,22.315069,73.166473
+14,ENGINEERS INDIA LTD.,1964,,Kolkata,kolkata,west bengal,22.54316,88.35593
+14,ENGINEERS INDIA LTD.,1964,,kharghar,raigarh,maharashtra,19.02349,73.03928
+14,ENGINEERS INDIA LTD.,1964,,Gurugaon,,haryana,,
+14,ENGINEERS INDIA LTD.,1964,,nct of delhi,north west,nct of delhi,28.56406,77.18272
+15,FERTILISERS & CHEMICALS TRAVANCORE LTD,1944,,eloor,ernakulam,kerala,10.0667,76.32248
+15,FERTILISERS & CHEMICALS TRAVANCORE LTD,1944,,thrippunithura,ernakulam,kerala,9.96983,76.42386
+16,HINDUSTAN AERONAUTICS LTD.,1940,,bruhat bengaluru mahanagara palike part,bangalore,karnataka,13.01537,77.68295
+16,HINDUSTAN AERONAUTICS LTD.,1940,,ozar,nashik,maharashtra,20.095699,73.925301
+16,HINDUSTAN AERONAUTICS LTD.,1940,,sunabeda,koraput,odisha,18.7231,82.8238
+16,HINDUSTAN AERONAUTICS LTD.,1940,,chakeri,kanpur nagar,uttar pradesh,26.39817,80.42038
+16,HINDUSTAN AERONAUTICS LTD.,1940,,lucknow,lucknow,uttar pradesh,26.87025,80.98223
+16,HINDUSTAN AERONAUTICS LTD.,1940,,rangareddy,rangareddy,andhra pradesh,16.94899,78.184082
+16,HINDUSTAN AERONAUTICS LTD.,1940,, Korwa ,,uttar pradesh,26.1532,81.8061
+16,HINDUSTAN AERONAUTICS LTD.,1940,,barrackpore,north twenty four parganas,west bengal,22.7792,88.367867
+17,HINDUSTAN COPPER LTD.,1967,,khetri,jhunjhunun,rajasthan,28.09588,75.87258
+17,HINDUSTAN COPPER LTD.,1967,,ghatshila,purbi singhbhum,jharkhand,22.57934,86.48253
+17,HINDUSTAN COPPER LTD.,1967,,Newargaon,balaghat,madhya pradesh,22.0452,80.7182
+17,HINDUSTAN COPPER LTD.,1967,,Devichapada,raigarh,maharashtra,19.073759,73.123161
+17,HINDUSTAN COPPER LTD.,1967,,Jhagadia,bharuch,gujarat,21.677502,73.205757
+18,HINDUSTAN FLUOROCARBONS LTD.,1983,,greater hyderabad municipal corporation part,rangareddy,andhra pradesh,17.564665,78.167692
+19,HINDUSTAN ORGANIC CHEMICALS LTD.,1960,,thrippunithura,ernakulam,kerala,9.95854,76.40496
+20,HINDUSTAN PETROLEUM CORP.LTD.,1952,,greater visakhapatnam municipal corporation part,visakhapatnam,andhra pradesh,17.726259,83.226936
+20,HINDUSTAN PETROLEUM CORP.LTD.,1952,,greater mumbai part,mumbai suburban,maharashtra,19.052113,72.900665
+21,HINDUSTAN PHOTO FILMS MANUFACTURING CO.LTD.,1960,,"Indunagar, Ooty",,tamil nadu,,
+22,HINDUSTAN ZINC LTD.,1966,,Agoocha,bhilwara,rajasthan,25.227171,74.515038
+22,HINDUSTAN ZINC LTD.,1966,,Dariba,rajsamand,rajasthan,24.951,74.134102
+22,HINDUSTAN ZINC LTD.,1966,,Sindesarkhurd,rajsamand,rajasthan,25.017599,74.120262
+22,HINDUSTAN ZINC LTD.,1966,,bhalariya,udaipur,rajasthan,24.378201,73.764503
+22,HINDUSTAN ZINC LTD.,1966,,Kayar,ajmer,rajasthan,26.459,74.63642
+23,INDIAN OIL CORP.LTD.,1959,,delhi municipal corporation part,north west,nct of delhi,28.643999,77.11853
+23,INDIAN OIL CORP.LTD.,1959,,barauni,begusarai,bihar,25.416599,86.093697
+23,INDIAN OIL CORP.LTD.,1959,,vadodara,vadodara,gujarat,22.34251,73.14516
+23,INDIAN OIL CORP.LTD.,1959,,Numalijalah (Part),kamrup metropolitan,assam,26.18123,91.81078
+23,INDIAN OIL CORP.LTD.,1959,,Haldia,paschim medinipur,west bengal,22.0222,88.05502
+23,INDIAN OIL CORP.LTD.,1959,,mathura,mathura,uttar pradesh,27.36583,77.64009
+23,INDIAN OIL CORP.LTD.,1959,,panipat,panipat,haryana,29.39422,76.96821
+23,INDIAN OIL CORP.LTD.,1959,," Dhaligaon, Chirang, Assam.",chirang,assam,,
+23,INDIAN OIL CORP.LTD.,1959,,Jhimani,jagatsinghapur,odisha,20.04395,86.14027
+24,INDIAN PETROCHEMICALS CORPN. LTD. [MERGED],1969,,Vadodara,Vadodara,gujarat,22.31806,73.17823
+24,INDIAN PETROCHEMICALS CORPN. LTD. [MERGED],1969,,nagothane,raigarh,maharashtra,18.540199,73.140503
+24,INDIAN PETROCHEMICALS CORPN. LTD. [MERGED],1969,,Dahej,bharuch,gujarat,21.756109,72.638771
+25,IRCON INTERNATIONAL LTD.,1976,,delhi municipal corporation part,north west,nct of delhi,28.5257,77.21439
+26,KOCHI REFINERIES LTD. [MERGED],1963,,thrippunithura,ernakulam,kerala,9.96424,76.39229
+27,MADRAS FERTILIZERS LTD.,1966,,manali,thiruvallur,tamil nadu,13.16341,80.26356
+28,MANGALORE REFINERY & PETROCHEMICALS LTD.,1988,,kuthethur,dakshin kannad,karnataka,12.99274,74.83828
+29,NBCC (INDIA) LTD.,1960,,delhi municipal corporation part,north west,nct of delhi,28.59126,77.224
+30,NATIONAL ALUMINIUM CO.LTD.,1981,,damanjodi,koraput,odisha,18.8132,82.7126
+30,NATIONAL ALUMINIUM CO.LTD.,1981,,"Angul, Odisha",,odisha,,
+31,NATIONAL FERTILIZERS LTD.,1974,,nangal,rupnagar,punjab,31.379727,76.342145
+31,NATIONAL FERTILIZERS LTD.,1974,,panipat,panipat,haryana,29.36874,76.98122
+31,NATIONAL FERTILIZERS LTD.,1974,,bathinda,bathinda,punjab,30.27443,74.93654
+31,NATIONAL FERTILIZERS LTD.,1974,,Vijaipura,guna,madhya pradesh,24.64113,77.31402
+32,OIL & NATURAL GAS CORP.LTD.,1956,,Vadodara,Vadodara,gujarat,22.25553,73.21794
+32,OIL & NATURAL GAS CORP.LTD.,1956,,uran,uran,maharashtra,18.8747,72.9404
+32,OIL & NATURAL GAS CORP.LTD.,1956,,surat,surat,gujarat,21.14097,72.75391
+33,OIL INDIA LTD.,1959,,digboi,tinsukia,assam,27.43185,95.70016
+33,OIL INDIA LTD.,1959,,guwahati ,kamrup metropolitan,assam,26.15589,91.67157
+33,OIL INDIA LTD.,1959,,moranhat,sivasagar,assam,27.23997,94.78316
+33,OIL INDIA LTD.,1959,,duliajan oil town,dibrugarh,assam,27.3818,95.31157
+33,OIL INDIA LTD.,1959,,kakinada part,east godavari,andhra pradesh,16.96759,82.25624
+34,POWER FINANCE CORP.LTD.,1986,,delhi municipal corporation part,north west,nct of delhi,28.63108,77.21831
+34,POWER FINANCE CORP.LTD.,1986,,greater mumbai part,mumbai suburban,maharashtra,18.935118,72.826439
+34,POWER FINANCE CORP.LTD.,1986,,chennai,chennai,tamil nadu,13.07209,80.20186
+35,POWER GRID CORP.OF INDIA LTD.,1989,,gurgaon,gurgaon,haryana,28.48991,77.028778
+36,RASHTRIYA CHEMICALS & FERTILIZERS LTD.,1978,,nagpur,nagpur,maharashtra,21.16881,79.032829
+36,RASHTRIYA CHEMICALS & FERTILIZERS LTD.,1978,,amravati,amravati,maharashtra,20.92972,77.75813
+36,RASHTRIYA CHEMICALS & FERTILIZERS LTD.,1978,,bhopal,bhopal,madhya pradesh,23.25232,77.43109
+36,RASHTRIYA CHEMICALS & FERTILIZERS LTD.,1978,,raipur,raipur,chhattisgarh,21.26637,81.6593
+36,RASHTRIYA CHEMICALS & FERTILIZERS LTD.,1978,,greater visakhapatnam municipal corporation part,visakhapatnam,andhra pradesh,17.7415,83.30971
+36,RASHTRIYA CHEMICALS & FERTILIZERS LTD.,1978,,greater hyderabad municipal corporation part,rangareddy,andhra pradesh,17.38702,78.42888
+36,RASHTRIYA CHEMICALS & FERTILIZERS LTD.,1978,,suryapet u,nalgonda,andhra pradesh,17.14189,79.61433
+37,RURAL ELECTRIFICATION CORPN. LTD.,1969,,delhi municipal corporation part,north west,nct of delhi,28.57135,77.224586
+37,RURAL ELECTRIFICATION CORPN. LTD.,1969,,Mylapore,thiruvallur,tamil nadu,13.03118,80.27836
+37,RURAL ELECTRIFICATION CORPN. LTD.,1969,,thiruvananthapuram part,thiruvananthapuram,kerala,8.50766,76.94364
+37,RURAL ELECTRIFICATION CORPN. LTD.,1969,,greater hyderabad municipal corporation part,rangareddy,andhra pradesh,17.34213,78.42647
+37,RURAL ELECTRIFICATION CORPN. LTD.,1969,,Vadodara,Vadodara,gujarat,22.32475,73.15681
+38,SCOOTERS INDIA LTD.,1972,, Lucknow, Lucknow,uttar pradesh,26.73646,80.84604
+39,SHIPPING CORP.OF INDIA LTD,1961,,greater mumbai part,mumbai suburban,maharashtra,18.915371,72.822151
+40,STATE TRADING CORP.OF INDIA LTD,1956,,ahmadabad,ahmadabad,gujarat,23.0359,72.538193
+40,STATE TRADING CORP.OF INDIA LTD,1956,,Agra ,,uttar pradesh,,
+40,STATE TRADING CORP.OF INDIA LTD,1956,,bruhat bengaluru mahanagara palike part,bangalore,karnataka,13.01167,77.53891
+40,STATE TRADING CORP.OF INDIA LTD,1956,,chennai,chennai,tamil nadu,13.00878,80.209923
+40,STATE TRADING CORP.OF INDIA LTD,1956,,jalandhar cantonment,jalandhar,punjab,31.32606,75.57562
+40,STATE TRADING CORP.OF INDIA LTD,1956,,Kolkata,kolkata,west bengal,22.54154,88.34376
+40,STATE TRADING CORP.OF INDIA LTD,1956,,greater mumbai part,mumbai suburban,maharashtra,19.12455,72.85837
+40,STATE TRADING CORP.OF INDIA LTD,1956,,delhi municipal corporation part,north west,nct of delhi,28.632744,77.219597
+41,STEEL AUTHORITY OF INDIA LTD.,1973,,bhilai charoda part,durg,chhattisgarh,21.22345,81.41256
+41,STEEL AUTHORITY OF INDIA LTD.,1973,,bokaro steel city,bokaro,jharkhand,22.77901,86.20391
+41,STEEL AUTHORITY OF INDIA LTD.,1973,,durgapur,barddhaman,west bengal,23.54432,87.32334
+41,STEEL AUTHORITY OF INDIA LTD.,1973,,sundargarh,raurkela m,raurkela,22.22082,84.84153
+41,STEEL AUTHORITY OF INDIA LTD.,1973,,asansol,barddhaman,west bengal,23.67794,87.01999
+41,STEEL AUTHORITY OF INDIA LTD.,1973,,mallamooppampatti,salem,tamil nadu,11.67278,78.00167
+41,STEEL AUTHORITY OF INDIA LTD.,1973,,bhadravati,shimoga,karnataka,13.84698,75.70452
+41,STEEL AUTHORITY OF INDIA LTD.,1973,,chandrapur,chandrapur,maharashtra,19.96899,79.3233
+42,GAIL LTD,1984,,raghogarh vijaypur,guna,madhya pradesh,24.48349,77.15802
+42,GAIL LTD,1984,,vaghodia,vadodara,gujarat,22.13499,73.41966
+42,GAIL LTD,1984,,sivasagar,sivasagar,assam,27.01356,94.85725
+42,GAIL LTD,1984,,auraiya,auraiya,uttar pradesh,26.6326,79.5543
+42,GAIL LTD,1984,,amod,bharuch,gujarat,21.99789,72.87486
+42,GAIL LTD,1984,,Usar,raigarh,maharashtra,18.1629,73.3027
+43,INDIAN MARINE FREIGHT CONTAINER MFG. LTD.,1994,,kolkata,kolkata,west bengal,22.585009,88.3580466
+44,BALMER LAWRIE-VAN LEER LTD.,1962,,Janakipuram (Sanur),kancheepuram,tamil nadu,12.49674,79.91291
+45,BHARAT IMMUNOLOGICALS & BIOLOGICALS CORPN. LTD.,1989,,Chola,bulandshahr,uttar pradesh,28.35432,77.7671
+46,H M T LTD.,1953,,ajmer,ajmer,rajasthan,26.459,74.63642
+46,H M T LTD.,1953,,pinjore,panchkula,haryana,30.80211,76.90431
+46,H M T LTD.,1953,,greater hyderabad municipal corporation part,rangareddy,andhra pradesh,17.5027,78.44755
+46,H M T LTD.,1953,,bruhat bengaluru mahanagara palike part,bangalore,karnataka,12.97675,77.57528
+46,H M T LTD.,1953,,kalamassery,ernakulam,kerala,10.04568,76.317177
+47,I B P CO. LTD. [MERGED],1947,,Ambewadi,nashik,maharashtra,19.94339,73.72656
+48,I T I LTD.,1948,,bruhat bengaluru mahanagara palike part,bangalore,karnataka,13.01644,77.6741
+48,I T I LTD.,1948,,allahabad,allahabad,uttar pradesh,25.37303,81.81993
+48,I T I LTD.,1948,,rae bareli,rae bareli,uttar pradesh,26.26761,81.1478
+48,I T I LTD.,1948,,gonda,gonda,uttar pradesh,27.11873,81.97423
+48,I T I LTD.,1948,,pudussery central,palakkad,kerala,10.7975,76.75632
+48,I T I LTD.,1948,,srinagar part,srinagar,jammu kashmir,33.91324,74.52513
+49,INDRAPRASTHA GAS LTD.,1998,,ghaziabad,ghaziabad,uttar pradesh,28.55702,77.32624
+50,K I O C L LTD.,1976,,kudremukh,chikmagalur,karnataka,13.2204,75.2514
+50,K I O C L LTD.,1976,,Padupanamboor,dakshina kannada,karnataka,12.896886,74.854173
+51,M M T C LTD.,1963,,greater visakhapatnam municipal corporation part,visakhapatnam,andhra pradesh,17.70883,83.29391
+51,M M T C LTD.,1963,,hospet,bellary,karnataka,15.27095,76.3906
+51,M M T C LTD.,1963,,donimalai township,bellary,karnataka,15.0588,76.5954
+51,M M T C LTD.,1963,,gajendragarh,gadag,karnataka,15.42689,75.62532
+51,M M T C LTD.,1963,,kolkata,kolkata,west bengal,22.57875,88.34951
+51,M M T C LTD.,1963,,Sitapura @ Ramoli,jaipur,rajasthan,26.7766,75.84214
+52,MAHARASHTRA ELEKTROSMELT LTD. [MERGED],1974,,chandrapur,chandrapur,maharashtra,19.97319,79.31684
+53,M O I L LTD.,1962,,ramtek,nagpur,maharashtra,21.377781,79.147461
+53,M O I L LTD.,1962,,chikhala,bhandara,maharashtra,21.52143,79.72413
+53,M O I L LTD.,1962,,khapa,nagpur,maharashtra,20.9339,78.9579
+53,M O I L LTD.,1962,,Kurmuda,bhandara,maharashtra,21.52143,79.72413
+53,M O I L LTD.,1962,,Khairi (Dhalgaon),nagpur,maharashtra,21.3939,79.3266
+53,M O I L LTD.,1962,,bharveli,balaghat,madhya pradesh,21.84883,80.27286
+53,M O I L LTD.,1962,,tirodi,balaghat,madhya pradesh,21.6834,79.7328
+53,M O I L LTD.,1962,,ukwa,balaghat,madhya pradesh,21.9691,80.4582
+54,S J V N LTD.,1988,,shimla,shimla,himachal pradesh,31.09752,77.1931
+55,N H P C LTD.,1975,,Sanjpoi (41),chamba,himachal pradesh,32.61521,75.92073
+55,N H P C LTD.,1975,,moirang,bishnupur,manipur,24.496401,93.765404
+55,N H P C LTD.,1975,,Salal,reasi,jammu kashmir,33.11513,74.80494
+55,N H P C LTD.,1975,,Tanakpur,champawat,uttarakhand,29.0719,80.1127
+55,N H P C LTD.,1975,,Kariana (174),chamba,himachal pradesh,32.5566,76.1247
+55,N H P C LTD.,1975,,Uri,baramula,jammu kashmir,34.0914,74.028
+55,N H P C LTD.,1975,,Darap,west district,Sikkim,27.35261,88.20158
+55,N H P C LTD.,1975,,dalhousie,Chamba,himachal pradesh,32.5445,75.94452
+55,N H P C LTD.,1975,,Punasa,east nimar,madhya pradesh,22.21262,76.41475
+55,N H P C LTD.,1975,,Suwa,pithoragarh,uttarakhand,30.209236,79.182055
+55,N H P C LTD.,1975,,Cher Jee,kishtwar,jammu kashmir,33.30742,75.76993
+55,N H P C LTD.,1975,,omkareshwar,east nimar,madhya pradesh,21.97424,75.92824
+55,N H P C LTD.,1975,,Singtam Forest Block,east district,sikkim,27.1661,88.3622
+55,N H P C LTD.,1975,,kathua,kathua,jammu kashmir,32.381,75.5491
+55,N H P C LTD.,1975,,Churi (89),chamba,himachal pradesh,32.43994,76.38504
+55,N H P C LTD.,1975,,Sittong Forest,darjiling,west bengal,26.90828,88.46849
+55,N H P C LTD.,1975,,Alchi,leh ladakh,jammu kashmir,34.442917,78.077329
+55,N H P C LTD.,1975,,kargil,kargil,jammu kashmir,34.5539,76.1349
+55,N H P C LTD.,1975,,Bajaura (36/89),kullu,himachal pradesh,31.9128,77.1743
+55,N H P C LTD.,1975,,jaisalmer,jaisalmer,rajasthan,26.91358,70.92554
+55,N H P C LTD.,1975,,Mangpu Cinchona Plantation,darjiling,west bengal,27.02777,83.39317
+55,N H P C LTD.,1975,,bandipore,bandipore,jammu kashmir,34.4232,74.636
+55,N H P C LTD.,1975,,kamuthi,ramanathapuram,tamil nadu,9.44154,78.36009
+56,N M D C LTD.,1958,,kirandul,dakshin bastar dantewada,chhattisgarh,18.46719,81.33086
+56,N M D C LTD.,1958,,Nagarnar,bastar,chhattisgarh,19.08977,82.02153
+56,N M D C LTD.,1958,,palwancha,khammam,andhra pradesh,17.588,80.6864
+56,N M D C LTD.,1958,,panna,panna,madhya pradesh,24.7046,80.1798
+56,N M D C LTD.,1958,,Lalapur,allahabad,uttar pradesh,,
+56,N M D C LTD.,1958,,arki,solan,himachal pradesh,31.1547,76.969
+57,N T P C LTD.,1975,,Singrauli,Sonebhadra ,uttar pradesh,24.12107,82.69594
+57,N T P C LTD.,1975,,korba part,korba,chhattisgarh,22.48708,82.63128
+57,N T P C LTD.,1975,,ramagundam part,karimnagar,andhra pradesh,18.76342,79.47386
+57,N T P C LTD.,1975,,farakka barrage township,murshidabad,west bengal,24.76976,87.90673
+57,N T P C LTD.,1975,,singrauli,singrauli,madhya pradesh,24.08698,82.69128
+57,N T P C LTD.,1975,,bijpur,sonbhadra,uttar pradesh,24.266741,83.11786
+57,N T P C LTD.,1975,,colgong,bhagalpur,bihar,25.25724,87.27246
+57,N T P C LTD.,1975,,Muthiyani,gautam buddha nagar,uttar pradesh,28.53075,77.5527
+57,N T P C LTD.,1975,,Bhimakanda,anugul,odisha,21.087703,85.087318
+57,N T P C LTD.,1975,,kurmannapalem u,visakhapatnam,andhra pradesh,17.58053,83.091873
+57,N T P C LTD.,1975,,unchahar,rae bareli,uttar pradesh,25.9027,81.3003
+57,N T P C LTD.,1975,,talcher,anugul,odisha,21.0586,85.04106
+57,N T P C LTD.,1975,,Seepat,bilaspur,chhattisgarh,22.127945,82.2906
+57,N T P C LTD.,1975,,Katariya,ambedkar nagar,uttar pradesh,26.6053,82.5541
+57,N T P C LTD.,1975,,mouda,nagpur,maharashtra,21.14971,79.40253
+57,N T P C LTD.,1975,,salakati,kokrajhar,assam,26.477705,90.300473
+57,N T P C LTD.,1975,,"Barh, patna, Bihar ",,bihar,,
+57,N T P C LTD.,1975,,Kudgi,bijapur,karnataka,16.8288,75.71778
+57,N T P C LTD.,1975,,solapur,solapur,Maharashtra,17.59456,75.97196
+57,N T P C LTD.,1975,,Lohakhan,raigarh,chhattisgarh,21.73743,83.46754
+57,N T P C LTD.,1975,,barauni,begusarai,bihar,25.46296,85.98814
+57,N T P C LTD.,1975,,gadarwara,narsimhapur,madhya pradesh,22.921,78.7778
+57,N T P C LTD.,1975,,Selda,west nimar,madhya pradesh,21.97424,75.92824
+57,N T P C LTD.,1975,,Darlipali,sundargarh,odisha,21.79363,83.81815
+57,N T P C LTD.,1975,,Kachri,baran,rajasthan,25.0959,76.5059
+57,N T P C LTD.,1975,,dibiyapur,auraiya,uttar pradesh,26.4607,79.5105
+57,N T P C LTD.,1975,,Surat,Surat,Gujarat,21.18082,72.68977
+57,N T P C LTD.,1975,,Jhanor,bharuch,gujarat,21.84248,73.08692
+57,N T P C LTD.,1975,,chingoli,alappuzha,kerala,9.27679,76.45492
+57,N T P C LTD.,1975,,Nimka(96),faridabad,haryana,28.28647,77.48221
+57,N T P C LTD.,1975,,Barmana (128),bilaspur,himachal pradesh,31.463449,76.862579
+58,N L C INDIA LTD.,1956,,neyveli,cuddalore,tamil nadu,11.61257,79.48244
+58,N L C INDIA LTD.,1956,,Barsingsar,bikaner,rajasthan,27.81818,73.19224
+59,ORISSA MINERALS DEVELOPMENT CO. LTD.,1980,,barbil,kendujhar,odisha,22.1115,85.3855
+60,PETRONET L N G LTD.,1998,,Dahej,bharuch,Gujarat,21.703369,72.548218
+60,PETRONET L N G LTD.,1998,,puthuvype,ernakulam,Kerala,9.956297,76.332486
+61,P T C INDIA LTD.,1999,,north west,,,28.57208,77.18124
+62,ASSAM PETROCHEMICALS LTD.,1971,,namrup,dibrugarh,assam,27.1938,95.3558
+63,GUJARAT ALKALIES & CHEMICALS LTD.,1973,,vadodara,vadodara,Gujarat,22.37649,73.099
+63,GUJARAT ALKALIES & CHEMICALS LTD.,1973,,Dahej,bharuch,Gujarat,21.705839,72.593338
+64,GUJARAT INDUSTRIES POWER CO. LTD.,1985,,Surat,Surat,Gujarat,21.14192,72.87395
+64,GUJARAT INDUSTRIES POWER CO. LTD.,1985,,vadodara,vadodara,Gujarat,22.37649,73.099
+64,GUJARAT INDUSTRIES POWER CO. LTD.,1985,," surat ,Gujarat",,Gujarat,,
+65,GUJARAT MINERAL DEVP. CORPN. LTD.,1963,,Panandhro,Kutch,Gujarat,23.70862,68.78795
+65,GUJARAT MINERAL DEVP. CORPN. LTD.,1963,,Ambadungar,vadodara,Gujarat,22.01378,74.07783
+65,GUJARAT MINERAL DEVP. CORPN. LTD.,1963,, Mevasa ,jamnagar,Gujarat,22.069731,69.314941
+65,GUJARAT MINERAL DEVP. CORPN. LTD.,1963,,Rajpardi ,Bharuch,Gujarat,21.7705002,21.7705002
+65,GUJARAT MINERAL DEVP. CORPN. LTD.,1963,,Mandvi,Kutch,Gujarat,22.8346,69.360703
+65,GUJARAT MINERAL DEVP. CORPN. LTD.,1963,,Matana Madh,kachchh,Gujarat,23.67938,69.06733
+65,GUJARAT MINERAL DEVP. CORPN. LTD.,1963,,Surat,Surat,Gujarat,23.051331,72.531952
+65,GUJARAT MINERAL DEVP. CORPN. LTD.,1963,,Umarsar,Kutch,Gujarat,23.59807,68.896202
+65,GUJARAT MINERAL DEVP. CORPN. LTD.,1963,,Bhavnagar,Bhavnagar,Gujarat,21.73296,72.14587
+66,GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS LTD.,1976,,Bharuch,Bharuch,Gujarat,22.69144,71.59791
+67,GUJARAT STATE FERTILIZERS & CHEMICALS LTD.,1962,,Vadodara,Vadodara,Gujarat,22.39608,73.13152
+68,MYSORE PAPER MILLS LTD.,1977,,Indiranagara,shimoga,karnataka,13.82211,75.69856
+69,NARMADA CHEMATUR PETROCHEMICALS LTD. [MERGED],1992,,Vadadla,Bharuch,Gujarat,21.72356,73.00126
+70,MELTRON SEMICONDUCTORS LTD.,1978,,Maroli,solapur,Maharashtra,19.128275,72.867706
+71,SAIL-S C L KERALA LTD.,1969,,olavanna,kozhikode,Kerala,11.25909,75.782
+72,TAMIL NADU NEWSPRINT & PAPERS LTD.,1999,,VILLUPURAM,VILLUPURAM,T.N,11.0152,78.40698
+72,TAMIL NADU NEWSPRINT & PAPERS LTD.,1999,,Ariyalur,Ariyalur,T.N,11.1521,79.0694
+72,TAMIL NADU NEWSPRINT & PAPERS LTD.,1999,,THANJAVUR,THANJAVUR,T.N,10.7836,79.1336
+72,TAMIL NADU NEWSPRINT & PAPERS LTD.,1999,,Mandipatti,Tiruchirappalli,T.N,9.99967,77.61953
+72,TAMIL NADU NEWSPRINT & PAPERS LTD.,1999,,tnpl pugalur,Karur,T.N,11.052576,77.996518
+72,TAMIL NADU NEWSPRINT & PAPERS LTD.,1999,,NAMAKKAL,NAMAKKAL,T.N,11.21878,78.167976
+72,TAMIL NADU NEWSPRINT & PAPERS LTD.,1999,,Pudukkottai ,Pudukkottai ,T.N,10.379663,78.820847
+72,TAMIL NADU NEWSPRINT & PAPERS LTD.,1999,,karaikkudi,sivaganga,T.N,10.06163,78.76699
+72,TAMIL NADU NEWSPRINT & PAPERS LTD.,1999,,Therkku Sankarankovil,tirunelveli,T.N,9.11854,77.62512
